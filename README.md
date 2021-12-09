@@ -1,5 +1,5 @@
 # Star_Wars_Api_MobileApp
-Creating Starwars mobile app using Star Wars API and React Native
+Creating Starwars mobile app using Star Wars API 
 
 This project was generated with React Native
 
